@@ -1,0 +1,1 @@
+# Fastapi model API 
